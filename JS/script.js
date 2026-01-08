@@ -37,7 +37,7 @@ register_btn.addEventListener('click', (event)=>{
                 <td>${count}</td>
                 <td>${name.value}</td>
                 <td>${lastname.value}</td>
-                <td>${added}</td>
+                <td>added</td>
             </tr>
         `;
         
